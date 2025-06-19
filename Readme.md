@@ -11,12 +11,12 @@ Atividade realizada na aula de HTML e CSS do +praTI.
 
 ## Tecnologias utilizadas
 
-**HTML5:** Estrutura da página;
-**CSS3:** Estilização e responsividade;
+* **HTML5:** Estrutura da página
+* **CSS3:** Estilização e responsividade
 
 ---
 
 ## Aluna
 
-** Jessica Sobreira 😁
+* Jessica Sobreira 😁
   
